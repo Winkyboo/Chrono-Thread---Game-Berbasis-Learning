@@ -101,9 +101,6 @@ Aplikasi ini berjalan dalam lingkungan Node.js. Berikut adalah cara untuk menjal
     ```bash
     npm run build
     ```
-=======
-# IMK9APASARHANACARAKA
->>>>>>> 600eec0cbc3f2c3b986a07053114c3691e33fc3b
 
 ## Tim B (Chrono Thread - Game Based Learning)
 
