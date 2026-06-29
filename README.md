@@ -11,6 +11,11 @@
 https://chrono-thread-1011441607029.asia-southeast1.run.app/
 ```
 
+## Link Demo Prototype dan Dev
+```
+https://youtu.be/EvcBUxP9rHg
+```
+
 ## Link Prototype Figma 
 ```
 https://www.figma.com/design/KiAzxVFFFoaWLsfQEMcYFA/Untitled?node-id=0-1&t=2xsiM1T9MGmS9dQl-1
